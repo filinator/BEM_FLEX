@@ -10,7 +10,7 @@
 <h1>HOME WORK 6 ☑</h1>
 <ul>
   <li>Установил расширение Prettier - Code formatter в VS Code и использовал его<br> только для форматирования CSS, так как в HTML не работает</li>
-  <li>Валидировал свой HTML с помощью [W3C Validators](https://validator.w3.org/), а CSS сайт не валидирует,<br> для этого использовал другой "http://csslint.net/"</li>
+  <li>Валидировал свой HTML с помощью https://validator.w3.org/, а CSS сайт не валидирует,<br> для этого использовал другой "http://csslint.net/"</li>
   <li>Добавил форму (form) на страницу с использованием таких тегов, как "input" и "textarea"</li>
   <li>Применил к (form) такие псевдоклассы как "hover", "focus" и "placeholder"</li>
   <li>Использовал свойства box-shadow и text-shadow</li>
