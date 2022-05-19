@@ -1,4 +1,7 @@
 <h1>HOME WORK 5 ☑</h1>
+
+Ссылка на страницу - <a href="https://filinator.github.io/BEM_FLEX/">🌐CLICK ME🌐</a>
+  
 <ol>
   <li>Создал новый публичный репозиторий</li>
   <li>Сверстал страницу по БЭМ с использованием Flexbox модели</li>
