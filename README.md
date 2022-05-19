@@ -12,7 +12,7 @@
   <li>Установил расширение Prettier - Code formatter в VS Code и использовал его<br> только для форматирования CSS, так как в HTML не работает</li>
   <li>Валидировал свой HTML с помощью https://validator.w3.org/, а CSS сайт не валидирует,<br> для этого использовал другой "http://csslint.net/"</li>
   <li>Добавил форму (form) на страницу с использованием таких тегов, как "input" и "textarea"</li>
-  <li>Применил к (form) такие псевдоклассы такие, как "hover", "focus" и "placeholder"</li>
+  <li>Применил к (form) такие псевдоклассы, как "hover", "focus" и "placeholder"</li>
   <li>Использовал свойства box-shadow и text-shadow</li>
   <li>Проработал значения свойства width: min-content, max-content, fit-content</li>
 </ul>
