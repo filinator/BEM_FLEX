@@ -20,4 +20,13 @@
   <li>Проработал значения свойства width: min-content, max-content, fit-content</li>
 </ul>
 
+<h1>HOME WORK 7 ☑</h1>
+<ul>
+  <li>Доработал шаблон с hw6</li>
+  <li>Закрепил: БЭМ, Flexbox, Form</li>
+  <li>Закрепил: Position: absolute, fixed, sticky, z-index; свойство transition</li>
+  <li>Закрепил: :root (сделал переменные)</li>
+</ul>
+
+
 
